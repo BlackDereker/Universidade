@@ -15,7 +15,7 @@ for word in words:
 
     for letter in word:
         code = codes[letter.upper()]
-        if code == None:
+        if code is None:
             morseCode += "?"
         else:
             morseCode += code
