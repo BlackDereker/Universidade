@@ -27,4 +27,4 @@ for word in words:
 
     morseCode += "\n"
 
-print(morseCode)
+print("\n" + morseCode)
