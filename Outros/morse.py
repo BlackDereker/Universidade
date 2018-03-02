@@ -28,4 +28,3 @@ for word in words:
     morseCode += "\n"
 
 print(morseCode)
-
