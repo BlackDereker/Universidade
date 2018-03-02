@@ -14,12 +14,16 @@ morseCode = ""
 for word in words:
 
     for letter in word:
-        code = codes[letter.upper()]
-        if code is None:
-            morseCode += "?"
-        else:
-            morseCode += code
-        morseCode += " "
+
+        code = ""
+
+        try:
+            code = codes[letter.upper()]
+        except KeyError:
+            morseCode += "? "
+            continue
+
+        morseCode += code + " "
 
     morseCode += "\n"
 
