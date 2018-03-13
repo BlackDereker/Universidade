@@ -3,7 +3,7 @@ compra = float(input("Valor da compra: "))
 valor = 0
 
 if compra < 20:
-    valor = compra * 1.4
+    valor = compra * 1.45
 else:
     valor = compra * 1.3
 
