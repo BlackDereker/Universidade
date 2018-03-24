@@ -1,5 +1,5 @@
 import random
-
+from myutils import *
 
 def puzzle(switch):
     prize = random.randint(1, 3)
@@ -24,7 +24,7 @@ print("")
 wins = 0
 for i in range(tries):
     success = puzzle(change == "s")
-    print("%d: %s" % (i + 1, "Success" if success else "Failure"))
+    fixedprint(str(i + 1) + ": ", "Success" if success else "Failure", 10)
     if success:
         wins += 1
 

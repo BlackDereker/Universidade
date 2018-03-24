@@ -1,0 +1,19 @@
+Quando voce alcanca a chave, um rato aparece no buraco e morde sua mao
+
+# vida -= 10
+
+$ vida > 0
+O rato sai do buraco, atravessa a cela e sai pelas grades
+
+$ vida <= 0
+Voce contraiu uma doenca do rato, voce comeca a sentir calor, sua visao fica turva e tudo fica preto
+
+% Escolhas
+
+$ vida > 0
+1. Pegar a chave
+chave.txt
+
+$ vida <= 0
+1. Jogar denovo
+setup.txt

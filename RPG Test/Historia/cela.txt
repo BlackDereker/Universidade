@@ -1,0 +1,14 @@
+Voce acorda em uma cela em um calabouco.
+O senhor feudal havia te prendido pois nao tinha pagado os impostos, mesmo sendo absurdos
+Voce precisa escapar da cela antes que sua sentenca de morte chegue
+
+% Escolhas
+
+1. Tentar abrir porta da cela
+cela_porta.txt
+
+2. Reclamar com os guardas
+reclamar_guarda.txt
+
+3. Investigar a cela
+investigar_cela.txt

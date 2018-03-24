@@ -1,0 +1,19 @@
+$ not chave
+Voce olha pelo buraco e ve uma chave
+
+$ chave
+Voce olha pelo buraco, nao ha nada
+
+% Escolhas
+
+$ not chave
+1. Tenta pegar a chave com a mao
+mordida.txt
+
+$ barra and not chave
+2. Tenta pegar a chave com a barra
+chave.txt
+
+$ chave
+1. Voltar
+investigar_cela.txt
