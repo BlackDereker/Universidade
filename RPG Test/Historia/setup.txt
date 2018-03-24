@@ -1,11 +1,17 @@
 Incializando o jogo...
 
+# score = 0
 # chave = False
 # vida = 30
 # barra = False
 # rato = True
+# escutar = False
+# veneno = False
+# surpresa = False
+# silencio = False
+# chave_mesa = False
 
 % Escolhas
 
 1. Digite 1 para comecar o jogo
-cela.txt
+Prisao/cela.txt

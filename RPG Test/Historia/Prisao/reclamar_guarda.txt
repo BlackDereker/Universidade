@@ -12,11 +12,11 @@ O guarda de saco cheio chega pra sua cela, saca a espada e enfia na sua garganta
 
 $ vida > 0
 1. Reclamar denovo
-reclamar_guarda.txt
+Prisao/reclamar_guarda.txt
 
 $vida >0
 2. Voltar
-cela.txt
+Prisao/cela.txt
 
 $ vida <= 0
 1. Jogar denovo

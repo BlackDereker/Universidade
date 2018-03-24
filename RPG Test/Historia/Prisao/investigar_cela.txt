@@ -3,14 +3,14 @@ Voce olha para a sua cela inteira e se depara com uma cama, uma estante e um bur
 % Escolhas
 
 1. Olhar debaixo da cama
-cama.txt
+Prisao/cama.txt
 
 2. Olhar em cima da estante
-estante.txt
+Prisao/estante.txt
 
 $ not chave
 3. Colocar a mao no buraco de rato
-buraco.txt
+Prisao/buraco.txt
 
 4. Voltar
-cela.txt
+Prisao/cela.txt

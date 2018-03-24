@@ -5,4 +5,4 @@ Voce conseguiu pegar a chave
 % Escolhas
 
 1. Voltar
-investigar_cela.txt
+Prisao/investigar_cela.txt

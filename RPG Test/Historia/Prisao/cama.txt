@@ -4,4 +4,4 @@ Algo te diz que se demorar muito, voce sera esse esqueleto.
 % Escolhas
 
 1. Voltar
-investigar_cela.txt
+Prisao/investigar_cela.txt

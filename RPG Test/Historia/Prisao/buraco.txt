@@ -8,12 +8,12 @@ Voce olha pelo buraco, nao ha nada
 
 $ not chave
 1. Tenta pegar a chave com a mao
-mordida.txt
+Prisao/mordida.txt
 
 $ barra and not chave
 2. Tenta pegar a chave com a barra
-chave.txt
+Prisao/chave.txt
 
 $ chave
 1. Voltar
-investigar_cela.txt
+Prisao/investigar_cela.txt

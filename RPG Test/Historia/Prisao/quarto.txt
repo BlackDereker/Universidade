@@ -1,0 +1,14 @@
+Voce se depara com um armario, uma mesa e uma cama
+Na mesa ha uma chave
+
+% Escolhas
+
+$ escutar
+1. Se esconder no armario
+Prisao/armario.txt
+
+2. Pegar a chave da mesa
+Prisao/chave_mesa.txt
+
+3. Olhar debaixo da cama
+Prisao/cama_quarto.txt

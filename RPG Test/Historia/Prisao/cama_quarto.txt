@@ -1,0 +1,16 @@
+Voce acha um frasco com um simbolo de uma caveira de rato, deve ser um veneno
+
+# veneno = True
+
+$ escutar and not silencio
+O guarda ja esta dentro do guardo, ele sacou a sua espada
+
+% Escolhas
+
+$ escutar
+1. Enfrentar o guarda
+Prisao/luta_quarto.txt
+
+$ not escutar and not silencio
+1. Pegar a chave
+Prisao/chave_mesa.txt

@@ -1,0 +1,18 @@
+Voce pega a chave da mesa
+
+Passos podem ser ouvidos fora do quarto
+
+# chave_mesa = True
+# escutar = True
+
+% Escolhas
+
+1. Esconder dentro do armario
+Prisao/armario.txt
+
+2. Enfrentar o guarda
+Prisao/luta_quarto.txt
+
+$ not veneno
+3. Olhar o que tem debaixo da cama
+Prisao/cama_quarto.txt

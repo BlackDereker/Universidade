@@ -10,12 +10,12 @@ Abrindo a porta da para ver que o corredor se extende para o lado esquerdo e dir
 
 $ not chave
 1. Voltar
-cela.txt
+Prisao/cela.txt
 
 $ chave
 1. Ir para a direita
-direita.txt
+Prisao/direita.txt
 
 $ chave
 2. Ir para a esquerda
-esquerda.txt
+Prisao/esquerda.txt

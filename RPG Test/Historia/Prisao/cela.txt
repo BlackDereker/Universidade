@@ -5,10 +5,10 @@ Voce precisa escapar da cela antes que sua sentenca de morte chegue
 % Escolhas
 
 1. Tentar abrir porta da cela
-cela_porta.txt
+Prisao/cela_porta.txt
 
 2. Reclamar com os guardas
-reclamar_guarda.txt
+Prisao/reclamar_guarda.txt
 
 3. Investigar a cela
-investigar_cela.txt
+Prisao/investigar_cela.txt

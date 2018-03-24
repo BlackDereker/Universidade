@@ -1,0 +1,11 @@
+Voce se esconde no armario, o guarda entra no quarto e fica procurando algo em cima da mesa
+
+# surpresa = True
+
+% Escolhas
+
+1. Ficar em silencio
+Prisao/silencio.txt
+
+2. Enfrentar o guarda
+Prisao/luta_quarto.txt

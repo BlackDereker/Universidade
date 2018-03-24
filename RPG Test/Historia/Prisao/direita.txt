@@ -1,0 +1,7 @@
+Voce anda pelo corredor e no final encontra uma porta de madeira
+Voce abre ela normalmente e se depara com um quarto, deve ser o quarto do guarda
+
+% Escolhas
+
+1. Entrar no quarto
+Prisao/quarto.txt

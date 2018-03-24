@@ -1,0 +1,29 @@
+$ surpresa and not barra
+Voce sai rapidamente do armario e da um soco na cara do guarda, ele cai e bate a cabeca na mesa. Ele esta inconsciente
+
+$ surpresa and barra
+Voce sai rapidamente do armario com a barra na mao e bate na cebeca do guarda, ele cai no chao e parece estar inconsciente
+
+$ not surpresa and barra
+O guarda entra e se depara com voce parado no meio do quarto. Ele saca a sua espada e te da um corte mas voce consegue acerta-lo com a sua barra e nocautear ele
+$ not surpresa and barra
+# vida -= 10
+
+$ not surpresa and not barra
+O guarda entra e se depara com voce parado no meio do quarto. Ele saca a sua espada e te da um corte, voce tenta soca-lo mas ele apenas enfia a espada na sua barriga.
+$ not surpresa and not barra
+# vida = 0
+
+% Escolhas
+
+$ vida == 0
+1. Jogar denovo
+setup.txt
+
+$ vida > 0 and not veneno
+1. Olhar debaixo da cama
+Prisao/cama_quarto.txt
+
+$ vida > 0
+1. Sair do quarto
+Prisao/esquerda.txt

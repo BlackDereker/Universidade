@@ -8,4 +8,4 @@ Voce passa a mao denovo no topo da estante, sua mao esta cheia de poeira
 % Escolhas
 
 1. Voltar
-investigar_cela.txt
+Prisao/investigar_cela.txt

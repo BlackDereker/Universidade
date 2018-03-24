@@ -12,7 +12,7 @@ Voce contraiu uma doenca do rato, voce comeca a sentir calor, sua visao fica tur
 
 $ vida > 0
 1. Pegar a chave
-chave.txt
+Prisao/chave.txt
 
 $ vida <= 0
 1. Jogar denovo

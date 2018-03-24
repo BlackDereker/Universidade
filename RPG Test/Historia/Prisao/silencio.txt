@@ -1,0 +1,15 @@
+Voce permanece em silencio no armario, o guarda sai do quarto
+
+Voce sai do armario
+
+$ not chave_mesa
+A chave nao esta mais na mesa
+
+% Escolhas
+
+$ not veneno
+1. Olhar debaixo da cama
+Prisao/cama_quarto
+
+2. Sair do quarto
+Prisao/esquerda.txt
