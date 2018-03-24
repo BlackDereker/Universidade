@@ -1,0 +1,21 @@
+$ not chave
+Voce tenta abrir a porta, esta trancada.
+
+$ chave
+Voce coloca a chave na fechadura e destranca a porta.
+$ chave
+Abrindo a porta da para ver que o corredor se extende para o lado esquerdo e direito
+
+% Escolhas
+
+$ not chave
+1. Voltar
+cela.txt
+
+$ chave
+1. Ir para a direita
+direita.txt
+
+$ chave
+2. Ir para a esquerda
+esquerda.txt

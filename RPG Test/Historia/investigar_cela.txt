@@ -1,0 +1,16 @@
+Voce olha para a sua cela inteira e se depara com uma cama, uma estante e um buraco de rato
+
+% Escolhas
+
+1. Olhar debaixo da cama
+cama.txt
+
+2. Olhar em cima da estante
+estante.txt
+
+$ not chave
+3. Colocar a mao no buraco de rato
+buraco.txt
+
+4. Voltar
+cela.txt

@@ -1,0 +1,11 @@
+Incializando o jogo...
+
+# chave = False
+# vida = 30
+# barra = False
+# rato = True
+
+% Escolhas
+
+1. Digite 1 para comecar o jogo
+cela.txt

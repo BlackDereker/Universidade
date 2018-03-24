@@ -1,0 +1,8 @@
+Voce conseguiu pegar a chave
+
+# chave = True
+
+% Escolhas
+
+1. Voltar
+investigar_cela.txt

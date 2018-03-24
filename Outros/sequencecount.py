@@ -1,7 +1,4 @@
 text = input("Texto: ")
-
-print("")
-
 sequence = input("Sequencia: ")
 
 count = 0

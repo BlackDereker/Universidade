@@ -1,7 +1,4 @@
 text = input("Texto: ")
-
-print("")
-
 word = input("Palavra: ")
 
 count = 0
