@@ -13,7 +13,6 @@ if tries < 1:
     exit()
 
 change = ""
-
 while True:
     change = input("Trocar de porta (s/n): ").lower()
     if change == "s" or change == "n":
