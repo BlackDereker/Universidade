@@ -1,0 +1,12 @@
+Voce chega na cozinhae e parece q tem um banquete sendo feito, mas os chefs estao ausentes no momento
+
+Ha tambem uma porta dos fundos que leva para fora do castelo
+
+% Escolhas
+
+1. Fugir do castelo
+Prisao/fugir.txt
+
+$ veneno
+2. Envenenar a comida
+Prisao/envenenar.txt

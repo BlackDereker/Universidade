@@ -1,0 +1,18 @@
+A porta esta trancada
+
+$ silencio
+Voce ouve um guarda gritar atras de voce e correndo na sua direcao
+
+% Escolhas
+
+$ silencio
+1. Enfrentar o guarda
+Prisao/luta_corredor.txt
+
+$ silencio
+2. Tentar arrombar a porta
+Prisao/arrombar.txt
+
+$ not silencio
+3. Ir para o lado direito do corredor
+Prisao/direita.txt

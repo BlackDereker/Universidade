@@ -8,6 +8,9 @@ O rato sai do buraco, atravessa a cela e sai pelas grades
 $ vida <= 0
 Voce contraiu uma doenca do rato, voce comeca a sentir calor, sua visao fica turva e tudo fica preto
 
+$ vida <= 0
+Sua Pontuacao: 0
+
 % Escolhas
 
 $ vida > 0

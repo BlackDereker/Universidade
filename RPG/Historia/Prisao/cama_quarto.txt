@@ -1,0 +1,29 @@
+Voce acha e pega um frasco com um simbolo de uma caveira de rato, deve ser um veneno
+
+# veneno = True
+
+$ escutar and not surpresa
+O guarda ja esta dentro do quarto, ele sacou a sua espada
+
+$ not escutar and not surpresa
+Voce ouve passos fora do quarto, parece que o guarda esta vindo
+
+# escutar = True
+
+% Escolhas
+
+$ not silencio
+1. Enfrentar o guarda
+Prisao/luta_quarto.txt
+
+$ not chave_mesa
+2. Esconder dentro do armario
+Prisao/armario.txt
+
+$ not chave_mesa
+3. Pegar a chave em cima da mesa
+Prisao/chave_mesa.txt
+
+$ silencio
+1. Sair do quarto
+Prisao/esquerda.txt

@@ -1,0 +1,7 @@
+Voce tenta arrombar a porta, mas ela eh feita de ferro
+
+Voce eh esfaqueado nas costas pelo guarda, voce esta morto
+
+% Escolhas
+1. Jogar denovo
+setup.txt

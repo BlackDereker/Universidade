@@ -10,6 +10,8 @@ Incializando o jogo...
 # surpresa = False
 # silencio = False
 # chave_mesa = False
+# aviso = False
+# envenenado = False
 
 % Escolhas
 

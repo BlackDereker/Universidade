@@ -1,0 +1,24 @@
+$ not barra
+Voce, sem nenhuma arma, esta frente a frente com o guarda. Ele, com a espada na mao, corta a sua garganta com facilidade
+$ not barra
+# vida = 0
+
+$ barra
+O guarda consegue te acertar no ombro mas voce bate na cabeca dele com a barra de ferro, ele desamaia.
+$ barra
+# vida -= 10
+
+$ barra
+Voce rouba a chave dele, mas o tumulto alertou os outros guardas
+$ barra
+# aviso = True
+
+% Escolhas
+
+$ vida > 0
+1. Abrir a porta de ferro
+Prisao/cozinha.txt
+
+$ vida <= 0
+1. Jogar denovo
+setup.txt

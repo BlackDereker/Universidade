@@ -1,0 +1,11 @@
+Voce finalmente conseguiu fugir do castelo e fugir do feudo
+
+$ envenenado
+Dias depois voce recebe noticias que o senhor feudal havia morrido
+
+# print("Sua pontuacao:", (vida + score) * 100)
+
+% Escolhas
+
+1. Jogar denovo
+setup.txt

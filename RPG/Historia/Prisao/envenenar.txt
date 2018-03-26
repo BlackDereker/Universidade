@@ -1,0 +1,14 @@
+Voce rala um pouco de veneno de rato na comida
+
+# envenenado = True
+# score += 10
+
+$ not aviso
+Voce ouve pessoas conversando chegando mais perto
+
+$ aviso
+Voce ouve barulhos de armadura chegando mais perto
+
+% Escolhas
+1. Fugir
+Prisao/fugir.txt

@@ -9,7 +9,7 @@ Prisao/cama.txt
 Prisao/estante.txt
 
 $ not chave
-3. Colocar a mao no buraco de rato
+3. Olhar o buraco de rato
 Prisao/buraco.txt
 
 4. Voltar

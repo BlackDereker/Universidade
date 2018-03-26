@@ -1,12 +1,16 @@
 Voce pega a chave da mesa
 
+$ not veneno
 Passos podem ser ouvidos fora do quarto
+$ veneno
+O guarda ja esta dentro do quarto, ele saca a sua espada
 
 # chave_mesa = True
 # escutar = True
 
 % Escolhas
 
+$ not veneno
 1. Esconder dentro do armario
 Prisao/armario.txt
 

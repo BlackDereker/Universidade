@@ -2,14 +2,16 @@ Voce permanece em silencio no armario, o guarda sai do quarto
 
 Voce sai do armario
 
+# silencio = True
+
 $ not chave_mesa
-A chave nao esta mais na mesa
+A chave nao esta mais na mesa, parece que o guarda a levou
 
 % Escolhas
 
 $ not veneno
 1. Olhar debaixo da cama
-Prisao/cama_quarto
+Prisao/cama_quarto.txt
 
 2. Sair do quarto
 Prisao/esquerda.txt

@@ -1,0 +1,11 @@
+Voce anda para o lado esquerdo do corredor e se depara com uma porta de ferro, deve ser a saida da prisao
+
+% Escolhas
+
+$ chave_mesa
+1. Usar a chave para abrir a porta
+Prisao/cozinha.txt
+
+$ not chave_mesa
+1. Tentar abrir a porta
+Prisao/porta_de_ferro.txt

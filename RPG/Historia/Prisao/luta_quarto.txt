@@ -14,6 +14,9 @@ O guarda entra e se depara com voce parado no meio do quarto. Ele saca a sua esp
 $ not surpresa and not barra
 # vida = 0
 
+$ vida == 0
+# print("Sua pontuacao:", (vida + score))
+
 % Escolhas
 
 $ vida == 0
@@ -25,5 +28,5 @@ $ vida > 0 and not veneno
 Prisao/cama_quarto.txt
 
 $ vida > 0
-1. Sair do quarto
+2. Sair do quarto
 Prisao/esquerda.txt

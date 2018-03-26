@@ -57,7 +57,7 @@ def execScene(fileName):
                     continue
 
             choiceIndex += 1
-            print(choiceIndex, ". " + line[2:].strip())
+            print(("%d. " % choiceIndex) + line[2:].strip())
 
             nextFileLine = file.readline()
             escolhas.insert(int(line[0]) - 1, nextFileLine[0: len(nextFileLine) - 1])
